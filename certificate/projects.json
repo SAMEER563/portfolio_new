@@ -1,0 +1,98 @@
+[
+  {
+    "name": "CELEBAL TECHNOLOGY",
+    "desc":" Summer Internship",
+    "image": "CT",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+  {
+    "name": "IIT Kanpur",
+    "desc":" Certified Full Stack Developer - March 28th to April 1st, 2022(1 week)",
+    "image": "IIT",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+
+
+  {
+    "name": "BANARAS LOCOMOTIVE WORKS",
+    "desc":" Summer Internship",
+    "image": "BLW",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+
+  {
+    "name": "CISCO NETWORKING ACADEMY ",
+    "desc":"Certificate in Introduction to Cybersecurity ",
+    "image": "CISCO",
+    "category":"CISCO",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+
+  {
+    "name": "KIMO ",
+    "desc":"Certificate in Web 3.0",
+    "image": "KIMO",
+    "category":"KIMO",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+
+  {
+    "name": "INTERNSHALA TRAININGS",
+    "desc":"Certificate in Programming with Python",
+    "image": "INTER",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+
+  {
+    "name": "TCS",
+    "desc":"TCS iON Career Edge - Young Professional",
+    "image": "TCS",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+
+
+  {
+    "name": "GREAT LEARNING ACADEMY ",
+    "desc":"Certificate in Front End Development – HTML",
+    "image": "LEARN",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  }
+  
+  
+]
