@@ -1,0 +1,33 @@
+[
+  {
+    "name": "E-LEARNING",
+    "desc": "This project offers an exceptional selection of courses for B.Tech and B.Pharma and certifications.The project is developed HTML, CSS, and JavaScript.",
+    "image": "WEB1",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.netlify.app/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+  {
+    "name": " Mern-Blog ",
+    "desc": " Blog app designed for users to create, publish, and share their own written content.",
+    "image": "WEB3",
+    "category":"MERN STACK DEVELOPMENT",
+    "links": {
+      "view": "This site is under maintainance",
+      "code": "https://github.com/SAMEER563/mern-blog.git"
+    }
+  },
+  {
+    "name": "News-Web ",
+    "desc": "News app providing curated and personalized news content from various sources.Users can customize their news feed based on their interests.",
+    "image": "WEB2",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "This site is under maintainance",
+      "code": "https://github.com/SAMEER563/news-web.git"
+    }
+  }
+  
+]
