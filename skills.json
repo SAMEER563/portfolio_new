@@ -1,0 +1,68 @@
+[
+  
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+   
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "MongoDb",
+        "icon": "https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png"
+    },
+    {
+        "name": "Express JS",
+        "icon": "https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/?size=48&id=123603&format=png"
+    },
+    {
+        "name": "Node JS",
+        "icon": "https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"
+    },
+    {
+        "name": "TailWind CSS",
+        "icon": "https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png"
+    }
+]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
