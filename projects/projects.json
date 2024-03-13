@@ -10,6 +10,26 @@
     }
   },
   {
+    "name": " Portfolio ",
+    "desc": "A personal portfolio is a curated collection of your work, achievements, skills, and experiences",
+    "image": "WEB5",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://sameermaurya.netlify.app/",
+      "code": "https://github.com/SAMEER563/portfolio_new.git"
+    }
+  },
+  {
+    "name": " Go-image ",
+    "desc": "This app designed for user to search any images from here.",
+    "image": "WEB4",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://goimage.netlify.app/",
+      "code": "https://github.com/SAMEER563/image-web.git"
+    }
+  },
+  {
     "name": " Mern-Blog ",
     "desc": " Blog app designed for users to create, publish, and share their own written content.",
     "image": "WEB3",
@@ -21,7 +41,7 @@
   },
   {
     "name": "News-Web ",
-    "desc": "News app providing curated and personalized news content from various sources.Users can customize their news feed based on their interests.",
+    "desc": "News app providing curated and personalized news content from various source.",
     "image": "WEB2",
     "category":"WEB DEVELOPMENT",
     "links": {
