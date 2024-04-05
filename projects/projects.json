@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": " Mern-Blog ",
+    "name": " BlogSphere ",
     "desc": " Blog app designed for users to create, publish, and share their own written content.",
     "image": "WEB3",
     "category":"MERN STACK DEVELOPMENT",
     "links": {
       "view": "This site is under maintainance",
-      "code": "https://github.com/SAMEER563/mern-blog.git"
+      "code": "https://github.com/SAMEER563/blogsphere.git"
     }
   },
   {
