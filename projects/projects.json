@@ -15,8 +15,18 @@
     "image": "WEB5",
     "category":"WEB DEVELOPMENT",
     "links": {
-      "view": "https://sameermaurya.netlify.app/",
+      "view": "https://sameermaurya.vercel.app/",
       "code": "https://github.com/SAMEER563/portfolio_new.git"
+    }
+  },
+  {
+    "name": "Inform Me ",
+    "desc": "News app providing the feature to distribute information about any topics digitaly.",
+    "image": "IMAGE",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://informme.onrender.com/",
+      "code": "https://github.com/SAMEER563/InformMe.git"
     }
   },
   {
@@ -49,5 +59,6 @@
       "code": "https://github.com/SAMEER563/news-web.git"
     }
   }
+ 
   
 ]
