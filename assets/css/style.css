@@ -182,6 +182,8 @@ header .navbar ul li a:hover {
 }
 /* hamburger icon ends */
 
+
+
 /* hero section starts*/
 .home {
   position: relative;
@@ -216,11 +218,13 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image img {
-  width: 50%;
+  width: 400px;               /* Set width */
+  height: 400px;              /* Set height equal to width */
   margin-left: 15rem;
-  border-radius: 50%;
+  border-radius: 50%;         /* This makes it a circle */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
+  object-fit: cover; 
 }
 .home .image img:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);

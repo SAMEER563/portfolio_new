@@ -15,7 +15,7 @@
     "image": "WEB5",
     "category":"WEB DEVELOPMENT",
     "links": {
-      "view": "https://sameermaurya.vercel.app/",
+      "view": "https://sameermaurya.netlify.app/",
       "code": "https://github.com/SAMEER563/portfolio_new.git"
     }
   },
@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": " GetBiz ",
+    "desc": " GetBiz is a business directory where user can register their business and get more customers.",
+    "image": "WEB2",
+    "category":"MERN STACK DEVELOPMENT",
+    "links": {
+      "view": "https://bussiness.onrender.com/",
+      "code": "https://github.com/SAMEER563/bussiness_dir1"
+    }
+  },
+  {
     "name": " BlogSphere ",
     "desc": " Blog app designed for users to create, publish, and share their own written content.",
     "image": "WEB3",
@@ -47,16 +57,6 @@
     "links": {
       "view": "This site is under maintainance",
       "code": "https://github.com/SAMEER563/blogsphere.git"
-    }
-  },
-  {
-    "name": "News-Web ",
-    "desc": "News app providing curated and personalized news content from various source.",
-    "image": "WEB2",
-    "category":"WEB DEVELOPMENT",
-    "links": {
-      "view": "This site is under maintainance",
-      "code": "https://github.com/SAMEER563/news-web.git"
     }
   }
  
