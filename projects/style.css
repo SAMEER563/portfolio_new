@@ -162,7 +162,7 @@ header .navbar ul li a:hover{
   margin-top: 5rem;
 }
 .work h2{
-  color: #fff;
+  color: #881ee5;
   padding: 1rem;
 }
 .work .heading span{
@@ -346,7 +346,7 @@ header .navbar ul li a:hover{
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #6f1fef;
   color: rgb(13, 0, 44);
   border-radius: 5rem;
   transition: 1s linear;

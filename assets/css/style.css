@@ -90,7 +90,7 @@ header .logo {
   font-size: 2.9rem;
   font-weight: 800;
   text-decoration: none;
-  color: #eb5dc1;
+  color: #6f1fef;
 
 }
 header .logo i {
@@ -121,8 +121,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #6f1fef;
+  border-bottom: 0.2rem solid #6f1fef;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -218,11 +218,11 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image img {
-  width: 400px;               /* Set width */
-  height: 400px;              /* Set height equal to width */
+  width: 350px;               /* Set width */
+  height: 350px;              /* Set height equal to width */
   margin-left: 15rem;
   border-radius: 50%;         /* This makes it a circle */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   cursor: pointer;
   object-fit: cover; 
 }
@@ -258,8 +258,8 @@ header .navbar ul li a:hover {
   padding: 1.6rem 3rem;
   border-radius: 4em;
   transition: 0.5s;
-  color: #fff;
-  background: #2506ad;
+  border: 2px solid #6f1fef;
+  color: #000;
   box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
@@ -273,9 +273,7 @@ header .navbar ul li a:hover {
   font-size: 1.5rem;
   transition: 0.3s;
 }
-.home .btn:hover {
-  background: #1a047e;
-}
+
 .home .btn:hover i {
   transform: translateX(5px);
 }
@@ -297,8 +295,9 @@ header .navbar ul li a:hover {
   font-size: 2rem;
   display: inline-block;
   line-height: 44px;
-  color: #00d9ff;
-  background-color: #09011b;
+  color: #6f1fef;
+  border: 2px solid #6f1fef;
+  box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   width: 44px;
   height: 44px;
   text-align: center;
@@ -310,25 +309,8 @@ header .navbar ul li a:hover {
 }
 .social-icons a:active,
 .social-icons a:focus,
-.social-icons a:hover {
-  color: #fff;
-  background-color: #0685da;
-}
-.social-icons a.github:hover {
-  background-color: #0e0e0e;
-}
-.social-icons a.twitter:hover {
-  background-color: #00aced;
-}
-.social-icons a.linkedin:hover {
-  background-color: #007bb6;
-}
-.social-icons a.dev:hover {
-  background-color: #070707;
-}
-.social-icons a.instagram:hover {
-  background-color: #ee00da;
-}
+
+
 /* social icons end */
 
 /* hero media queries starts*/
@@ -340,7 +322,8 @@ header .navbar ul li a:hover {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    margin-top: 2rem;
+    margin-left: 0;
   }
   .home .content p {
     font-size: 2.2rem;
@@ -354,7 +337,7 @@ header .navbar ul li a:hover {
 
 /* about section starts */
 .about {
-  background: rgb(255, 255, 255);
+  background: #f7f7f7;
 }
 .about .row {
   display: flex;
@@ -421,9 +404,9 @@ header .navbar ul li a:hover {
   padding: 1.7rem 3rem;
   border-radius: 0.5em;
   transition: 0.3s;
-  color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  color: #6f1fef;
+  border: 2px solid #6f1fef;
+  box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
 .resumebtn .btn span {
@@ -436,9 +419,7 @@ header .navbar ul li a:hover {
   font-size: 1.2rem;
   transition: 0.3s;
 }
-.resumebtn .btn:hover {
-  background: #41f97e;
-}
+
 .resumebtn .btn:hover i {
   transform: translateX(5px);
 }
@@ -469,13 +450,13 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #41f97e, #57059e);
+  background: #f7f7f7;
 }
 .skills h2 {
-  color: #fff;
+  color: #881ee5;
 }
 .skills .heading span {
-  color: rgb(248, 196, 84);
+  color: #881ee5;
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -542,7 +523,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #82daf7;
+  background: #f7f7f7;
   min-height: 80vh;
 }
 .education .qoute {
@@ -650,14 +631,14 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
+  background: #f7f7f7;
 }
 .work h2 {
-  color: #fff;
+  color: #881ee5;
   padding: 1rem;
 }
 .work .heading span {
-  color: rgb(242, 232, 144);
+  color: #881ee5;
 }
 .work .box-container {
   display: flex;
@@ -742,9 +723,9 @@ header .navbar ul li a:hover {
   padding: 1.6rem 3rem;
   border-radius: 0.5em;
   transition: 0.5s;
-  color: rgb(255, 255, 255);
+  color: rgb(7, 6, 7);
   font-weight: 700;
-  border: 2px solid #fff;
+  border: 2px solid #6f1fef;
   box-shadow: 0px 5px 10px rgba(65, 84, 241, 0.4);
   text-align: center;
 }
@@ -759,8 +740,8 @@ header .navbar ul li a:hover {
   transition: 0.3s;
 }
 .work .viewall .btn:hover {
-  background: #fff;
-  color: #000;
+  background-color: #881ee5;
+  color: #ffffff;
 }
 .work .viewall .btn:hover i {
   transform: translateX(5px);
@@ -777,7 +758,7 @@ header .navbar ul li a:hover {
   content: "";
   position: absolute;
   width: 6px;
-  background: #020133;
+  background: #000;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -873,10 +854,11 @@ header .navbar ul li a:hover {
   position: relative;
   line-height: 0;
   padding: 1.6rem 3rem;
+  border: 2px solid #6f1fef;
   border-radius: 0.5em;
   transition: 0.5s;
-  color: #fff;
-  background: #2506ad;
+  color: #000;
+  
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   text-align: center;
 }
@@ -891,7 +873,8 @@ header .navbar ul li a:hover {
   transition: 0.3s;
 }
 .morebtn .btn:hover {
-  background: #1a047e;
+  background-color: #881ee5;
+  color: #ffffff;
 }
 .morebtn .btn:hover i {
   transform: translateX(5px);
@@ -1345,7 +1328,7 @@ form .button-area {
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #6f1fef;
   color: rgb(13, 0, 44);
   border-radius: 50%;
   transition: 1s linear;
